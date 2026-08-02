@@ -1,8 +1,29 @@
 aid: zageno
 name: Zageno
-description: Zageno is a company surfaced as a portfolio company of general-catalyst and added to the
-  API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  ZAGENO is a multi-supplier e-commerce marketplace and procurement platform for
+  pharma and life-science R&D labs. It lets scientists search, compare, and order
+  more than 50 million SKUs from over 6,000 global suppliers through a single
+  consolidated catalog and checkout, with real-time availability, spend
+  visibility, and automated approval workflows. ZAGENO connects into enterprise
+  procure-to-pay and ERP systems (Coupa, SAP Ariba, Jaggaer, Procurify, NetSuite,
+  QuickBooks and more) through a single PunchOut/cXML catalog integration rather
+  than a public developer API. Founded in 2015 and headquartered in Cambridge,
+  Massachusetts, it is backed by General Catalyst, Grazia Equity, and Capnamic
+  Ventures.
 url: https://raw.githubusercontent.com/api-evangelist/zageno/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://production-lib.zageno.com/static/img/favicons/android-icon-192x192.png
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -11,12 +32,39 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Life Sciences
+- Procurement
+- Marketplace
+- E-Commerce
+- Lab Supplies
+- Biotech
+- PunchOut
 apis: []
+common:
+- type: Website
+  url: https://go.zageno.com/
+- type: Blog
+  url: https://go.zageno.com/blog
+- type: Support
+  url: https://go.zageno.com/contact-us
+- type: Login
+  url: https://zageno.com/accounts/login
+- type: PrivacyPolicy
+  url: https://go.zageno.com/privacy-policy
+- type: TermsOfService
+  url: https://go.zageno.com/terms-of-use
+- type: About
+  url: https://go.zageno.com/about-us
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 0
+  pass: local-v1
