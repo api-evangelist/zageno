@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/zageno/integrations
+- https://n8n.io/integrations/zageno/
+- https://composio.dev/toolkits/zageno
+- https://monid.ai/tools/zageno
+checked:
+- https://composio.dev/toolkits/zageno
+- https://monid.ai/tools/zageno
+- https://n8n.io/integrations/zageno/
+- https://zapier.com/apps/zageno/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
